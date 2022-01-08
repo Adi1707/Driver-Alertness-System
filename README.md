@@ -53,7 +53,9 @@
 </ul>
 
 
-**Getting Started :**
+# Getting Started :
+<img src="https://github.com/Adi1707/Driver-Alertness-System/blob/main/Demo%20Screenshots/GUI%20working%20video.gif">
+
 
 
 
