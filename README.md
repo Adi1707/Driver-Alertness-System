@@ -20,6 +20,7 @@
   <li>Alarm sound is added to alert the user</li>
   <li>Three different tabs are provided in the GUI which are TRAIN, TEST and MAIN</li>
   <li>Secondary Camera (like mobile phone's camera) can also be used to get ROI</li>
+  <li>We are performing three tasks which are TRAIN, TEST and MAIN simultaneously </li>
   
 </ul>  
 
@@ -56,6 +57,32 @@
 # Getting Started :
 <img src="https://github.com/Adi1707/Driver-Alertness-System/blob/main/Demo%20Screenshots/GUI%20working%20video.gif">
 
+<ul>
+  <li>Clone this repo in your local machine</li>
+  <li>Right click and then open with code</li>
+  <li>Run main.py and the GUI window appears</li>  
+  </ul>
+  
+  **TRAIN :**  
+  
+<ul>
+  <li>Click in train and then select the path for dataset whixh consists of positive and negative images</li>
+  <li>Then select optimizer, loss, metrics and epochs</li>
+  <li>Then click on start and wait until the message "TRAINING COMPLETED" is displayed</li> 
+</ul>
+
+  **TEST :** 
+<ul>
+  <li>Select Model file and folder for test sample</li>
+  <li>Click on start</li>
+</ul>
+
+
+  **MAIN :** 
+<ul>
+  <li>Press ON to turn on the camera and start the model</li>
+  <li>Output can be seen depending upon the state of driver</li>
+</ul>
 
 
 
