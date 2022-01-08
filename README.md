@@ -23,7 +23,16 @@
 </ul>  
 
 
-**ScreenShots :**  
+**ScreenShots :**    
+
+<img src="https://github.com/Adi1707/Driver-Alertness-System/blob/main/Demo%20Screenshots/TRAIN.png">
+<img src="https://github.com/Adi1707/Driver-Alertness-System/blob/main/Demo%20Screenshots/TEST.png">
+<img src="https://github.com/Adi1707/Driver-Alertness-System/blob/main/Demo%20Screenshots/MAIN.png">
+<img src="https://github.com/Adi1707/Driver-Alertness-System/blob/main/Demo%20Screenshots/AWAKE.png">
+<img src="https://github.com/Adi1707/Driver-Alertness-System/blob/main/Demo%20Screenshots/CLOSED.png">
+<img src="https://github.com/Adi1707/Driver-Alertness-System/blob/main/Demo%20Screenshots/NEUTRAL.png">
+
+
 
 
 
