@@ -59,14 +59,14 @@
 
 <ul>
   <li>Clone this repo in your local machine</li>
-  <li>Right click and then open with code</li>
+  <li>Right click and then open with a code editor</li>
   <li>Run main.py and the GUI window appears</li>  
   </ul>
   
   **TRAIN :**  
   
 <ul>
-  <li>Click in train and then select the path for dataset whixh consists of positive and negative images</li>
+  <li>Click in train and then select the path for dataset which consists of positive(p) and negative(n) images</li>
   <li>Then select optimizer, loss, metrics and epochs</li>
   <li>Then click on start and wait until the message "TRAINING COMPLETED" is displayed</li> 
 </ul>
