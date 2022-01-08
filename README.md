@@ -66,7 +66,9 @@
   **TRAIN :**  
   
 <ul>
-  <li>Click in train and then select the path for dataset which consists of positive(p) and negative(n) images</li>
+  <li>Click in train and then select the path for dataset which consists of positive and negative images</li>
+  <li>Positive images must be stored in a folder with name p</li>
+  <li>Negative images must be stored in a folder with name n</li>
   <li>Then select optimizer, loss, metrics and epochs</li>
   <li>Then click on start and wait until the message "TRAINING COMPLETED" is displayed</li> 
 </ul>
