@@ -19,7 +19,7 @@
   <li>Any type of image data could be trained through the GUI</li>
   <li>Alarm sound is added to alert the user</li>
   <li>Three different tabs are provided in the GUI which are TRAIN, TEST and MAIN</li>
-  <li>Secondary Camera (like mobile phone's camera) can also used to get ROI</li>
+  <li>Secondary Camera (like mobile phone's camera) can also be used to get ROI</li>
   
 </ul>  
 
