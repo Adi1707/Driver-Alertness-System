@@ -136,14 +136,22 @@ def model_train():
     y = np.array(y)
 
     x_train_scaled = x/255.0
+
+    data_aug = Sequential([
+        layers.experimental.preprocessing.RandomRotation(0.1),
+        layers.experimental.preprocessing.RandomZoom(0.1),
+    ])
+    
     
     model = Sequential([
+        data_aug,
         layers.Conv2D(32, 4, padding='same', activation='relu'),
         layers.MaxPooling2D(),
         layers.Conv2D(64, 4, padding='same', activation='relu'),
         layers.MaxPooling2D(),
         layers.Conv2D(128, 4, padding='same', activation='relu'),
         layers.MaxPooling2D(),
+        layers.Dropout(0.2),
         layers.Flatten(),
         layers.Dense(10, activation='relu'),
         layers.Dense(2, activation='softmax')
